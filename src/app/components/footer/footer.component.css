@@ -1,0 +1,21 @@
+footer {
+  position: fixed ;
+  bottom: 0 ;
+  padding: 0 ;
+  width: 100% ;
+  height: 40px ;
+  /* Altura a tu gusto */
+  line-height: 40px ;
+  /* Verticalmente centrado */
+  background-color: #ffe6e6;
+  /* Por si le quieres colocar un color */
+  border: 4px solid silver;
+}
+
+span , p{
+  margin: 0 ;
+  padding: 0 ;
+  text-align: center;
+}
+
+
